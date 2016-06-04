@@ -1,0 +1,42 @@
+body { background:#c2d2e9;}
+.menu {
+    background: #fff;
+    box-shadow: 0 0 5px 1px;
+}
+.inbl {
+    display: inline-block;
+}
+.textnews {
+
+    width:100%;
+    height:200px;
+}
+.textcomm {
+
+    width:70%;
+    height:100px;
+}
+.text-news-div {
+    background: floralwhite;
+    box-shadow: 0 0 15px 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.divright {
+    float:right;
+}
+.divleft {
+    float:left;
+}
+.clearleft {
+    clear:left;
+}
+.right {
+    text-align:right;
+}
+.left {
+    text-align:left;
+}
+.center {
+    text-align:center;
+}
